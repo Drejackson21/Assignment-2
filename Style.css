@@ -1,0 +1,30 @@
+.container {
+        
+        display: flex;
+        flex-direction: row;
+        gap: 400px;
+        Background-color: rgb(219, 216, 216);
+        
+}
+
+.top {
+        background-color: rgb(68, 176, 253);
+        height: 50px;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.944);
+
+}
+
+
+
+.header {
+        color: purple;
+        
+}
+
+img {
+        height: 400px;
+        width: 300px;
+        image-rendering: auto;
+}
+

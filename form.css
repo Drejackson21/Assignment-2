@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    
+}
+
+
+.h1 {
+    text-align: center;
+}
+    
+
+body {
+    background-color: bisque;
+   
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    
+}
+.dock form {
+    
+    height: 950px;
+    border: rgb(19, 19, 19) 2px solid;
+    background-color: rgb(199, 251, 234);
+    /* padding: 70px 0; */
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size:x-large;
+    
+}
+
+.circle{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dock caption {
+    border:rgb(19, 19, 19) 2px solid;
+    padding-bottom: 0px;
+}
+table {
+    text-align: center;
+    
+    
+}
+
+.square {
+    bottom: 0%;
+}
